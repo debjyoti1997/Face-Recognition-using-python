@@ -1,14 +1,15 @@
-# Face-Recognition-using-python
+# Face-Recognition-using-python OPEN CV
 Label each of the images with the person's name that you are using for training in the folder having images.
 
 
 I have used python 3.6 and open cv 4.2.0.34 version.
 
 
-You might get errors while installing face_recognition library.So follow the following steps.
+You might get errors while installing face_recognition library.
 
+So, follow the following steps.
 
-1) Create a new anaconda environment for spyder :
+1)Create a new anaconda environment for spyder :
 type  "  conda create -n <yourenvname> (Creating a virtual environment) "  (without quotation) while being in the base environment in anaconda prompt.
 
 
