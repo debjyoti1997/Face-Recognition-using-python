@@ -46,5 +46,3 @@ And copy the .exe location and paste it in tools> preferences>python interpreter
 9)Install opencv-python 4.2.0.34
 
 
-Thats it.You should be good to go !
-
